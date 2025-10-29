@@ -18,7 +18,7 @@ public class App
     {
     	//konfigurasi database
     	
-//    	create tabel manual di mySQL, dengan database bernama teruntuk_ids (bisa sesuaikan dengan string url
+//    	create tabel manual di mySQL, dengan database bernama teruntuk_ids (bisa sesuaikan dengan string url)
     	//CREATE TABLE status (
 //    	  id INT PRIMARY KEY,
 //    	  name VARCHAR(50)
