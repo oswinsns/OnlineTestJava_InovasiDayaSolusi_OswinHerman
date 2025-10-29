@@ -4,7 +4,7 @@ Berikut saya izin lampirkan jawaban tes coding dan IT logic yang diberikan pada 
 Cara mengecek jawaban coding:
 
 1. Buka Mysql lewat XAMPP
-2. Create table yang ada dikomen dengan menulis langsung di query SQL
+2. Create table yang ada dikomen dengan menulis langsung di query SQL (perhatikan nama database & tabel)
 3. Run code pada app.java di package src/main/java
 4. Buka link http://localhost:8080/data
 5. Cek Response json lewat Postman
