@@ -5,7 +5,7 @@ Cara mengecek jawaban coding:
 
 1. Buka Mysql lewat XAMPP
 2. Create table yang ada dikomen dengan menulis langsung di query SQL
-3. Run code
+3. Run code pada app.java
 4. Buka link http://localhost:8080/data
 5. Cek Response json lewat Postman
 ( ataupun bisa buka pada link postman ini dan lihat response history jam 11.55 AM :
